@@ -1,5 +1,5 @@
 let a ={
     rajini:'jailar',
-    vijay: 'leo'
+    vijay: 'Goat'
 }
 console.log('shiva' in a)
