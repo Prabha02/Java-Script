@@ -26,7 +26,7 @@ if(c.includes(90))
     console.log('Value is there.')
 }
 else{
-    console.log('value is not there')
+    console.log('Value is not there')
 }
 
 //split  doubt
